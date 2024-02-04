@@ -1,9 +1,5 @@
 ## Hi there 你好 👋
 
-👩‍💻 代码之藤是由一些开发人员组成的开发团队，主要编写 Minecraft 插件。  
-🔒 我们编写的插件大部分都是私人用途，所以并没有公开。
-![闲鱼宣传图 - 副本](https://github.com/CodeVine327/.github/assets/46647646/94dba6d8-d8cf-4710-8f35-204844040ecc)
-
 
 
 
